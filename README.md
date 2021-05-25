@@ -11,15 +11,15 @@ The final presentation explaining our approach can be found [here](https://githu
 
 The module consists of 5 different deliveries that build up to a complete pipeline. Refer to the specifics `README.md` for further explanations, requirements and the complete code of each week.
  
-* [Week 1](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab1)
+* [Week 1: Planar Transformations and Image Rectification](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab1)
 
-* [Week 2](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab2)
+* [Week 2: Homography Estimation and Applications](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab2)
 
-* [Week 3](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab3)
+* [Week 3: Fundamental Matrix Estimation and Applications](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab3)
 
-* [Week 4](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab4)
+* [Week 4: Reconstruction from Two Images](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab4)
 
-* [Week 5](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab5)
+* [Week 5: Structure from Motion](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab5)
 
 ## Contributors: Team 7
 - Josep Brugués i Pujolràs ([email](mailto:josep.brugues@e-campus.uab.cat))
