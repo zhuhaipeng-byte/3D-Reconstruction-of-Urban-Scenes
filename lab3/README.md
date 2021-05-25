@@ -7,13 +7,9 @@ In this project, the fundamental matrix (F) relating two different views of a sc
 The code is presented in the Jupyter Notebook **lab3-team7.ipynb**. 
 
 ## Task 1: Fundamental Matrix Estimation
-* Norm
-* Estimate the homography between image pairs (RANSAC, normalized DLT algorithm)
-
-## Task 2: Application - Image Mosaics
 * Normalized 8-point algorithm
 * Robust normalized 8-point algorithm
 * Epipolar lines
 
-## Task 3: Application - Photo-sequencing
+## Task 2: Application - Photo-sequencing
 * Estimate the different locations of a dynamic object on a reference image
