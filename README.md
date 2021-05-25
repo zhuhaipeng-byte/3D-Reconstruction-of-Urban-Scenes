@@ -1,4 +1,4 @@
-# Scene Understanding for Autonomous Driving
+# 3D Reconstruction of Urban Scenes
 
 <img src="3D_reconstruction_urban_scenes.png" width=60%>
 
@@ -7,7 +7,9 @@ This repository contains the code related to the project on '3D Recovery of Urba
 
 The aim of this master module is to perform 3D reconstruction of buildings from a set of images taken from different points of view (frontal images of the façades and aerial images). Specifically, we rectify the perspective distortion from a single view, estimate essential and fundamental matrix, calibrate a camera with a planar pattern, estimate the depth of points in the scene given two images, generate new views of the scene, and compute a 3D model either from a set of calibrated or uncalibrated cameras (SfM).
 
-The module consists of 5 different deliveries that build up to a complete pipeline. Refer to the specifics `README.md` for further explanations, requirements and the complete code of each week.
+The final presentation explaining our approach can be found [here](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/blob/main/M4_Final_Presentation_Team7.pdf).
+
+The module consists of 5 different deliveries that build up to a complete pipeline. Refer to the specifics folders for the complete report and code of each week.
  
 * [Week 1](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab1)
 
