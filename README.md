@@ -9,7 +9,7 @@ The aim of this master module is to perform 3D reconstruction of buildings from 
 
 The final presentation explaining our approach can be found [here](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/blob/main/M4_Final_Presentation_Team7.pdf).
 
-The module consists of 5 different deliveries that build up to a complete pipeline. Refer to the specifics folders for the complete report and code of each week.
+The module consists of 5 different deliveries that build up to a complete pipeline. Refer to the specifics `README.md` for further explanations, requirements and the complete code of each week.
  
 * [Week 1](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab1)
 
