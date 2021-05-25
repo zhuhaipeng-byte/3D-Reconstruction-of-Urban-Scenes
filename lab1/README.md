@@ -17,5 +17,5 @@ The code is presented in the Jupyter Notebook **lab1.ipynb**.
 ## Task 3: Metric Rectification
 * Recover metric proportions of an image
 
-## Task 4 (Optional): Metric rectification on a single step
+## Task 4 (Optional): Metric Rectification on a Single Step
 * Rectify an image on a single step, as an alternative to the stratified method
